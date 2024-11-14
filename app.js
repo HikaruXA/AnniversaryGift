@@ -5,7 +5,7 @@ const mainContent = document.querySelector(".maincontent");
 const header = document.querySelector(".header");
 
 // Set target time (November 17, 2024, 12:00 AM Philippines time)
-const targetDate = new Date("November 14, 2024 13:40:00 GMT+0800"); // GMT+0800 for Philippines
+const targetDate = new Date("November 17, 2024 00:00:00 GMT+0800"); // GMT+0800 for Philippines
 
 // Update countdown every second
 const countdownInterval = setInterval(function () {
